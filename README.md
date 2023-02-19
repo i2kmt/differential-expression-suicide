@@ -31,5 +31,8 @@ From the results of the analysis, 5 genes were selected with the lowest pvalue. 
 
 ## Discussion
 ### Homo sapiens progestin and adipoQ receptor family member 5 (PAQR5), transcript variant 2, mRNA
-This gene codes the protein PAQR5, which is a membrane receptor of progesterone and antiponectin. Progesterone in women is mainly responsible for preparing the uterus in order to receive and support zygote's developement. Antiponectin is secreated from fatty cells and 
+This gene codes the protein PAQR5, which is a membrane receptor of progesterone and antiponectin. Progesterone in women is mainly responsible for preparing the uterus in order to receive and support zygote's developement. Antiponectin is secreated from fatty cells and regulates the metabolism of lipids and glucose in the liver, the muscle tissue and other organs. It should be noted that these hormones activate a G-protein pathway. 
+For this specific analysis, I looked for different roles of this hormones in order to connect their function with the nervous system. It should be said at this point that all samples were from male humans, which is not normal with the higher expression of PAQR5, as progesterone characterizes the female organism. Progesterone plays a role too in functions such as regulating the brain's activity, mood homeostasis and libido. These psychological processes may be related with clinical depression.
+
+### Homo sapiens phorbol-12-myristate-13-acetate-induced protein 1 (PMAIP1), transcript variant 6, mRNA 
 
