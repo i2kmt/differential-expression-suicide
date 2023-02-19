@@ -27,7 +27,15 @@ GEO2R provided automatically the code for the analysis which is located in the f
 ## Results
 ### Gene selection
 From the results of the analysis, 5 genes were selected with the lowest pvalue. From the genebank accession number, I was able to find the genes' names.
-- Table -
+| GeneBank accession number | Gene Name |
+-------------------|----------------------
+| NM_017705.4 |   Homo sapiens progestin and adipoQ receptor family member 5 (PAQR5), transcript variant 2, mRNA|
+| NM_021127.3 | Homo sapiens phorbol-12-myristate-13-acetate-induced protein 1 (PMAIP1), transcript variant 6, mRNA|
+| NM_020997.4 | Homo sapiens left-right determination factor 1 (LEFTY1), mRNA |
+| NM_005346.6 | Homo sapiens heat shock protein family A (Hsp70) member 1B (HSPA1B), mRNA |
+| NM_005797.4 | Homo sapiens myelin protein zero like 2 (MPZL2), transcript variant 1, mRNA |
+
+
 
 ## Discussion
 ### Homo sapiens progestin and adipoQ receptor family member 5 (PAQR5), transcript variant 2, mRNA
