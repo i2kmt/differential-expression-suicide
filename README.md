@@ -42,12 +42,9 @@ From the results of the analysis, 5 genes were selected with the lowest pvalue. 
 ### Homo sapiens progestin and adipoQ receptor family member 5 (PAQR5), transcript variant 2, mRNA
 This gene codes the protein PAQR5, which is a membrane receptor of progesterone and antiponectin. Progesterone in women is mainly responsible for preparing the uterus in order to receive and support zygote's developement. Antiponectin is secreated from fatty cells and regulates the metabolism of lipids and glucose in the liver, the muscle tissue and other organs. It should be noted that these hormones activate a G-protein pathway. 
 For this specific analysis, I looked for different roles of this hormones in order to connect their function with the nervous system. It should be said at this point that all samples were from male humans, which is not normal with the higher expression of PAQR5, as progesterone characterizes the female organism. Progesterone plays a role too in functions such as regulating the brain's activity, mood homeostasis and libido. These psychological processes may be related with clinical depression.
-<p align="center">
-  <src="https://user-images.githubusercontent.com/117028076/220389807-b94d0d93-a946-4720-a1f5-1e5e2cb3060a.png">
-</p>
 
+![image](https://user-images.githubusercontent.com/117028076/220389807-b94d0d93-a946-4720-a1f5-1e5e2cb3060a.png)
 ![image](https://user-images.githubusercontent.com/117028076/220389831-f814956c-776d-45d1-ab17-f68e17f29dcc.png)
-
 
 
 ### Homo sapiens phorbol-12-myristate-13-acetate-induced protein 1 (PMAIP1), transcript variant 6, mRNA 
@@ -60,7 +57,7 @@ The results of the analysis showed that PMAIP1's expression was higher in the su
 ![image](https://user-images.githubusercontent.com/117028076/220389895-668879cb-b933-4b63-97da-319986d3e401.png)
 
 
-###Homo sapiens left-right determination factor 1 (LEFTY1), mRNA
+### Homo sapiens left-right determination factor 1 (LEFTY1), mRNA
 This gene codes the protein LEFTY1, who is consisted by 366 amino acids. It is located in the intracellular space and regulates the organs' symmetry. This symmetry is based on the left-right axis of the body while developement.
 The big interest in this specific example is that hebanula is physiologically asymmetric. In humans, hebanula has a differential sub-unit concentration, activity and metabolism, giving it it's particular geometry. 
 LEFTY1's expression was higher in the suicide samples and may be capable of producing disfunction, as it indicates that hebanula was getting to be more symmetric, which could possibly be pathogenic.
