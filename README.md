@@ -43,4 +43,16 @@ This gene codes the protein PAQR5, which is a membrane receptor of progesterone 
 For this specific analysis, I looked for different roles of this hormones in order to connect their function with the nervous system. It should be said at this point that all samples were from male humans, which is not normal with the higher expression of PAQR5, as progesterone characterizes the female organism. Progesterone plays a role too in functions such as regulating the brain's activity, mood homeostasis and libido. These psychological processes may be related with clinical depression.
 
 ### Homo sapiens phorbol-12-myristate-13-acetate-induced protein 1 (PMAIP1), transcript variant 6, mRNA 
+This gene codes the PMAIP1 protein, which has a 54 amino-acid sequence and has a key role in cell apoptosis. It is mostly located in the mitochondria
+It's functions are mainly caspases activation, who start the apoptosis mechanism. It also takes place in TP53's apoptotic pathway after cell radiation expose.
+The way with which PMAIP1 contributes in the activation of apoptosis is mainly by deactivating proteins who support cellular survival. To be more specific, it is responsible for degradation of MCL1, a protein who inhibits apoptosis. This way, just by interacting with it, PMAIP1 stops MCL1 from interacting with and preventing the function of pro-apoptotic proteins.
+The results of the analysis showed that PMAIP1's expression was higher in the suicide samples, indicating the probability of neurones undergoing apoptosis.
+
+###Homo sapiens left-right determination factor 1 (LEFTY1), mRNA
+This gene codes the protein LEFTY1, who is consisted by 366 amino acids. It is located in the intracellular space and regulates the organs' symmetry. This symmetry is based on the left-right axis of the body while developement.
+The big interest in this specific example is that hebanula is physiologically asymmetric. In humans, hebanula has a differential sub-unit concentration, activity and metabolism, giving it it's particular geometry. 
+LEFTY1's expression was higher in the suicide samples and may be capable of producing disfunction, as it indicates that hebanula was getting to be more symmetric, which could possibly be pathogenic.
+
+###Homo sapiens heat shock protein family A (Hsp70) member 1B (HSPA1B), mRNA
+
 
