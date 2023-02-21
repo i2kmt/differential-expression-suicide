@@ -37,7 +37,6 @@ From the results of the analysis, 5 genes were selected with the lowest pvalue. 
 
 ![image](https://user-images.githubusercontent.com/117028076/220389513-49b35b17-2a38-40ae-a3d2-b5dedd1f02fc.png)
 
-
 ## Discussion
 ### Homo sapiens progestin and adipoQ receptor family member 5 (PAQR5), transcript variant 2, mRNA
 This gene codes the protein PAQR5, which is a membrane receptor of progesterone and antiponectin. Progesterone in women is mainly responsible for preparing the uterus in order to receive and support zygote's developement. Antiponectin is secreated from fatty cells and regulates the metabolism of lipids and glucose in the liver, the muscle tissue and other organs. It should be noted that these hormones activate a G-protein pathway. 
@@ -45,7 +44,6 @@ For this specific analysis, I looked for different roles of this hormones in ord
 
 ![image](https://user-images.githubusercontent.com/117028076/220389807-b94d0d93-a946-4720-a1f5-1e5e2cb3060a.png)
 ![image](https://user-images.githubusercontent.com/117028076/220389831-f814956c-776d-45d1-ab17-f68e17f29dcc.png)
-
 
 ### Homo sapiens phorbol-12-myristate-13-acetate-induced protein 1 (PMAIP1), transcript variant 6, mRNA 
 This gene codes the PMAIP1 protein, which has a 54 amino-acid sequence and has a key role in cell apoptosis. It is mostly located in the mitochondria
@@ -56,7 +54,6 @@ The results of the analysis showed that PMAIP1's expression was higher in the su
 ![image](https://user-images.githubusercontent.com/117028076/220390126-f121c151-4039-453c-920e-82e06cddab67.png)
 ![image](https://user-images.githubusercontent.com/117028076/220389895-668879cb-b933-4b63-97da-319986d3e401.png)
 
-
 ### Homo sapiens left-right determination factor 1 (LEFTY1), mRNA
 This gene codes the protein LEFTY1, who is consisted by 366 amino acids. It is located in the intracellular space and regulates the organs' symmetry. This symmetry is based on the left-right axis of the body while developement.
 The big interest in this specific example is that hebanula is physiologically asymmetric. In humans, hebanula has a differential sub-unit concentration, activity and metabolism, giving it it's particular geometry. 
@@ -65,8 +62,7 @@ LEFTY1's expression was higher in the suicide samples and may be capable of prod
 ![image](https://user-images.githubusercontent.com/117028076/220389941-22efce3c-6cb9-4a24-a8b8-56e1960834e6.png)
 ![image](https://user-images.githubusercontent.com/117028076/220389973-dfa85634-1ad6-4409-9e8f-e37d0ad0c78f.png)
 
-
-
 ### Homo sapiens heat shock protein family A (Hsp70) member 1B (HSPA1B), mRNA
-
+This gene codes a chaperone, the protein HSPA18. Chaperones are responsible for protecting the cellular proteome from stress and damage. They also help on regulating correct protein folding. HSPA18 is consisted by 641 amino acids and located in the cytoplasm. From IntAct there were observed interactions of this protein with mainly other chaperones and MAP-kinases. 
+MAP-kinases are pro- or anti- apoptotic, based on the stimuli and the cell type. 
 
